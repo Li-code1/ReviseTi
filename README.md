@@ -120,3 +120,4 @@ supabase/migrations/0001_init.sql
 - Checklist detalhado por aula (estudei / entendi / fiz exercícios / consigo explicar / revisei).
 - Exportação/importação de dados (a interface já está preparada em Configurações).
 - Gamificação, XP, níveis, badges, ranking, notificações push — fora de escopo por enquanto.
+- desenvolvido por Liliane Lima 
